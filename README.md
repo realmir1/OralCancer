@@ -1,4 +1,7 @@
-## **Ağız Bölgesinde Gelişen Kanserin Yapay Zeka Yorumu** 
+# **Ağız Bölgesinde Gelişen Kanserin Yapay Zeka Yorumu** 
+
+
+## **Oral (veya Ağız) Kanseri nedir ?**
  
 Oral kanseri ya da Ağız kanseri dudak ağız veya üst boğaz zarının kanseridir. Başlangıçta beyaz bir yama olarak başlar zamanla büyüyerek kırmızılaşır. Dudaklarda çıkmaya başladığı zaman iyileşmesi zorlaşır ve ülseri gibi kabuksuz, kalıcı bir yapıya dönüşür. Hastanelerde veya tedavi merkezlerinde Tanı ilgili bölgenin biyopsisi ile yapılır, ardından BT, MR,  PET ile vücudun uzak bölgelerine yayılıp yayılmadığını belirlemek için inceleme yapılır. Kanser şimdiye kadar 177.000 insanın ölümüne sebep oldu
 
@@ -8,7 +11,7 @@ Oral kanseri ya da Ağız kanseri dudak ağız veya üst boğaz zarının kanser
   <img src="https://www.frontiersin.org/files/Articles/1452909/fonc-14-1452909-HTML-r2/image_m/fonc-14-1452909-g001.jpg" alt="Resim 1" width="500"/>
 </p>
 <br>
-<br>3
+<br>
 
 
 
