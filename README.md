@@ -2,6 +2,15 @@
  
 Oral kanseri ya da Ağız kanseri dudak ağız veya üst boğaz zarının kanseridir. Başlangıçta beyaz bir yama olarak başlar zamanla büyüyerek kırmızılaşır. Dudaklarda çıkmaya başladığı zaman iyileşmesi zorlaşır ve ülseri gibi kabuksuz, kalıcı bir yapıya dönüşür. Hastanelerde veya tedavi merkezlerinde Tanı ilgili bölgenin biyopsisi ile yapılır, ardından BT, MR,  PET ile vücudun uzak bölgelerine yayılıp yayılmadığını belirlemek için inceleme yapılır. Kanser şimdiye kadar 177.000 insanın ölümüne sebep oldu
 
+<br>
+<br>
+<p align="center">
+  <img src="https://www.frontiersin.org/files/Articles/1452909/fonc-14-1452909-HTML-r2/image_m/fonc-14-1452909-g001.jpg" alt="Resim 1" width="500"/>
+</p>
+<br>
+<br>3
+
+
 
 **Belirtiler**
 - Ağızda ince, düzensiz beyaz lekeler.
@@ -23,8 +32,27 @@ Kanser boğaza yayıldığında, yutma güçlüğü, ağrılı yutma ve değişm
 
 ## **Patofizyoloji**
 Oral skuamöz hücreli karsinom, mukoza bazal hücrelerinin düzensiz çoğalmasının son ürünüdür. Tek bir öncü hücre, onkogen adı verilen değiştirilmiş gen birikimi ile birçok kızı hücreden oluşan bir klona dönüştürülür. İyi huylu bir tümör üzerinde maklign bir tümörü karakterize eden, metastaz yapma yeteneğidir. Bu yetenek, tümörün büyüklüğünden veya derecesinden bağımsızdır (adenoid kistik karsinom gibi yavaş büyüyen kanserler sıklıkla metastaz yapabilir). Bir kanseri karakterize eden sadece hızlı bir büyüme değil, aynı zamanda enzimleri, anjiyogenik faktörleri, istila faktörlerini, büyüme faktörlerini ve yayılmasına izin veren diğer birçok faktörü salgılama yetenekleridir.
+<br>
+<br>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cervical_lymphadenopathy_right_neck.png/440px-Cervical_lymphadenopathy_right_neck.png" alt="Resim 1" width="400"/>
+</p>
+<br>
+<br>
 
 ## **Prognoz**
 
 Ağız kanseri için sağkalım oranları, tanının kesin yerine ve kanserin evresine bağlıdır. Genel olarak, SEER veritabanından 2011 verileri, ilk tanı, tüm cinsiyetler, tüm etnik kökenler, tüm yaş grupları ve tüm tedavi modaliteleri göz önüne alındığında, hayatta kalma oranının % 57 olduğunu göstermektedir. 1. Evre kanserler için sağkalım oranları yaklaşık% 90'dır. Benzer sağkalım oranları Almanya gibi diğer ülkelerden de bildirilmiştir.
+<br>
+<br>
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Left_lower_lip_cancer.jpg/440px-Left_lower_lip_cancer.jpg" alt="Resim 1" width="400"/>
+</p>
+
+<br>
+<br>
+
+
