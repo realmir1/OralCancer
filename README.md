@@ -83,6 +83,6 @@ Bu proje, Oral Kanser sınıflandırması yapmak için bir Convolutional Neural 
 ## **Test ve Eğitim uygulamalarının Doğruluk Sonuçları** 
 <br>
 <p align="center">
-  <img src="https://github.com/realmir1/OralCancer/blob/main/Ekran%20Resmi%202024-12-12%2022.26.15.png?raw=true" alt="Resim 1" width="500"/>
+  <img src="https://raw.githubusercontent.com/realmir1/OralCancer/refs/heads/main/DoğrulukGrafik.png" alt="Resim 1" width="500"/>
 </p>
 
